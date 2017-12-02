@@ -1,2 +1,6 @@
 # hello-world
-Used to learn how to make a repo.
+
+Hello folks!
+
+My name is Sarah Sand, and I enjoy code. 
+Looking forward to developing new skills and creating more content!
